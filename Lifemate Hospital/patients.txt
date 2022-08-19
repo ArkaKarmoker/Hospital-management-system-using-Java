@@ -1,0 +1,4 @@
+Name		Phone		Disease		Status
+Mr. A  01743790390  Typhoid  Admitted
+Mr. B  01703755763  Diabetes  Not admitted
+Mr. C  01919191911  Unindentified  Not admitted
